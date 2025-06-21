@@ -1,9 +1,19 @@
 # 👋 Hi, I'm Berekia Obed
 
-Welcome to my GitHub bio. 
-🧑‍💻 Software Engineer | Full Stack Developer | Creative Problem Solver  
-📍 Cotonou, Bénin  
-🌐 [Mon site web](https://devalade.me) | [LinkedIn](https://www.linkedin.com/in/devalade)
+# I'm a Software Engineer!! Welcome to my GitHub bio.
 
----
+🌱 I am currently learning **DevOps** and **TailwindCSS**  
+💻 My everyday tech : **JavaScript**, **Vue.js**, **Node.js**, **Java**  
+📫 Contact me : [berekiaahouandjinou@gmail.com](mailto:berekiaahouandjinou@gmail.com)  
+🏀 Fun fact : I like **sport**, especially **basketball** 🏀  
+🌐 Portfolio : [berekiaobed.me](https://berekiaobed.me)
+
+### 💬 Let's connect
+
+- 📬 Email : [berekiaahouandjinou@gmail.com](mailto:berekiaahouandjinou@gmail.com)  
+- 🌍 Portfolio : [https://berekiaobed.me](https://berekiaobed.me)
+
+### 🔧 Languages and Tools:
+
+![Stack](https://skillicons.dev/icons?i=js,vue,nodejs,java,tailwind,docker,git,linux)
 
