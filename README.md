@@ -7,7 +7,7 @@ Welcome to my GitHub bio.
 💻 My everyday tech : **JavaScript**, **Vue.js**, **Node.js**, **Java**  
 📫 Contact me : [berekiaahouandjinou@gmail.com](mailto:berekiaahouandjinou@gmail.com)  
 🏀 Fun fact : I like **sport**, especially **basketball** 🏀  
-🌐 Portfolio : [berekiaobed.me](https://berekiaobed.me)
+🌐 Portfolio : [berekiaobed.me]([https://berekiaobed.me](https://berekiaobed.vercel.app/))
 
 ### 💬 Let's connect
 
