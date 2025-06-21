@@ -7,19 +7,3 @@ Welcome to my GitHub bio.
 
 ---
 
-### 🚀 Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,nestjs,laravel,docker,git,linux,rust)
-
----
-
-### 📈 GitHub Stats
-
-![devalade GitHub Stats](https://github-readme-stats.vercel.app/api?username=devalade&show_icons=true&theme=default)
-
----
-
-### 📫 Me contacter
-
-- ✉️ Email : aladecharaf23@gmail.com
-- 🌍 Blog : [devalade.me](https://devalade.me)
