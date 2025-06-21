@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Berekia Obed
+Welcome to my GitHub bio.
 
-# I'm a Software Engineer!! Welcome to my GitHub bio.
+# I'm a Software Engineer!! 
 
 🌱 I am currently learning **DevOps** and **TailwindCSS**  
 💻 My everyday tech : **JavaScript**, **Vue.js**, **Node.js**, **Java**  
@@ -15,5 +16,5 @@
 
 ### 🔧 Languages and Tools:
 
-![Stack](https://skillicons.dev/icons?i=js,vue,nodejs,java,tailwind,docker,git,linux)
+![Stack](https://skillicons.dev/icons?i=js,vue,nodejs,java,tailwind,docker,git,linux,springboot,angular)
 
