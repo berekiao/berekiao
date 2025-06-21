@@ -16,5 +16,5 @@ Welcome to my GitHub bio.
 
 ### 🔧 Languages and Tools:
 
-![Stack](https://skillicons.dev/icons?i=js,vue,nodejs,java,tailwind,docker,git,linux,spring,angular, vercel)
+![Stack](https://skillicons.dev/icons?i=js,vue,nodejs,java,tailwind,docker,git,linux,spring,angular,vercel)
 
