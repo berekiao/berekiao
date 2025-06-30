@@ -5,6 +5,7 @@ Welcome to my GitHub bio.
 
 🌱 I am currently learning **DevOps** and **TailwindCSS**  
 💻 My everyday tech : **JavaScript**, **Vue.js**, **Node.js**, **Java**, **Spring Boot**
+
 📫 Contact me : [berekiaahouandjinou@gmail.com](mailto:berekiaahouandjinou@gmail.com)  
 🏀 Fun fact : I like **sport**, especially **basketball** 🏀  
 🌐 Portfolio : [[berekiaobed.me](https://berekiaobed.vercel.app/)]
